@@ -37,7 +37,7 @@ Prerequisites: Node.js (16+) and npm.
 Install and run locally:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/bingecoder89/workflow-builder.git
 cd workflow-builder
 npm install
 npm run dev
